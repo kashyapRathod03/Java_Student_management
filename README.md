@@ -8,13 +8,11 @@ The Student Management System is a Java-based web application designed to manage
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Prerequisites](#Prerequisites)
+- [step](#step)
 - [Technologies Used](#technologies-used)
 - [Dependencies](#dependencies)
-- [Configuration](#configuration)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Features
 
